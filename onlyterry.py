@@ -1,2 +1,3 @@
 import os
-kill(terry)
+#kill(terry)
+##never gonna give up in this moment
